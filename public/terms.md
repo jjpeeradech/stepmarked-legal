@@ -1,3 +1,5 @@
+Last updated: 2026-09-18
+
 1. Acceptance of Terms
 
 By downloading, accessing, or using the StepMarked application ("the App"), you agree to be bound by these Terms of Use. If you do not agree to these terms, please do not use the App.
@@ -49,4 +51,3 @@ These Terms are governed by the laws of the jurisdiction in which StepMarked is 
 12. Contact
 
 If you have any questions about these Terms, please contact us at support@stepmarked.example.
-"""

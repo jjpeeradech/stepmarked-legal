@@ -1,3 +1,5 @@
+Last updated: 2026-09-18
+
 1. Introduction
 
 This Privacy Policy explains how StepMarked ("we," "us," or "our") collects, uses, and safeguards information when you use the StepMarked application ("the App").
