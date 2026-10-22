@@ -9,6 +9,7 @@ The app source code lives in a separate private repository.
 public/
   privacy.md    <- source content (edit this)
   terms.md      <- source content (edit this)
+  support.md    <- source content (edit this)
   privacy.html  <- generated, this is what gets served
   terms.html    <- generated
   index.html    <- generated, links to both
@@ -31,9 +32,14 @@ GitHub Pages serves this repo at:
 
 - Privacy policy: `https://jjpeeradech.github.io/stepmarked-legal/privacy.html`
 - Terms: `https://jjpeeradech.github.io/stepmarked-legal/terms.html`
+- Support: `https://jjpeeradech.github.io/stepmarked-legal/support.html`
 
 The privacy URL is submitted to App Store Connect under
-App Privacy > Privacy Policy URL. It must be publicly reachable
+App Privacy > Privacy Policy URL, and the support URL as the version's
+Support URL.
+
+`privacy.md` and `terms.md` must match the text the app shows in
+`LegalDocumentView.swift` (app repo); update both together. It must be publicly reachable
 with no login.
 
 ## Deploy

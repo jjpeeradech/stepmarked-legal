@@ -18,6 +18,7 @@ PUBLIC = ROOT / "public"
 PAGES = [
     ("privacy", "Privacy Policy"),
     ("terms", "Terms of Use"),
+    ("support", "Support"),
 ]
 
 SITE = "StepMarked"
@@ -81,7 +82,7 @@ def shell(title, body, *, dateline=""):
 <h1>{html.escape(title)}</h1>
 {dateline_html}{body}
 <footer>
-<a href="./privacy.html">Privacy Policy</a><a href="./terms.html">Terms of Use</a>
+<a href="./privacy.html">Privacy Policy</a><a href="./terms.html">Terms of Use</a><a href="./support.html">Support</a>
 </footer>
 </main>
 </body>
@@ -131,10 +132,11 @@ def render(source):
 
 def build_index(dateline):
     body = (
-        "<p>Legal documents for the StepMarked iOS app.</p>\n"
+        "<p>Legal documents and support for the StepMarked iOS app.</p>\n"
         "<ul>\n"
         '  <li><a href="./privacy.html">Privacy Policy</a></li>\n'
         '  <li><a href="./terms.html">Terms of Use</a></li>\n'
+        '  <li><a href="./support.html">Support</a></li>\n'
         "</ul>"
     )
     return shell("Legal", body, dateline=dateline)

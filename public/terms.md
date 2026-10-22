@@ -1,4 +1,4 @@
-Last updated: 2026-09-18
+Last updated: 14 October 2026
 
 1. Acceptance of Terms
 
@@ -6,7 +6,7 @@ By downloading, accessing, or using the StepMarked application ("the App"), you 
 
 2. Description of Service
 
-StepMarked is a travel companion application that helps you discover destinations, track your visited places, and connect with a community of travelers. The App may include features such as persona quizzes, destination recommendations, an interactive globe, and profile personalization.
+StepMarked is a travel companion application that helps you discover destinations and track the places you have visited. The App may include features such as persona quizzes, destination recommendations, an interactive globe, and profile personalization.
 
 3. Account Registration
 
@@ -42,6 +42,8 @@ To the maximum extent permitted by law, StepMarked shall not be liable for any i
 
 10. Termination
 
+You may stop using the App and delete your account at any time from Settings → Delete Account in the App.
+
 We may suspend or terminate your access to the App at any time, without prior notice, if we believe you have violated these Terms.
 
 11. Governing Law
@@ -50,4 +52,4 @@ These Terms are governed by the laws of the jurisdiction in which StepMarked is 
 
 12. Contact
 
-If you have any questions about these Terms, please contact us at support@stepmarked.example.
+If you have any questions about these Terms, please contact us at kuptipong.park@gmail.com.
